@@ -41,8 +41,7 @@ This repository presents a fine-tuned **Meta LLaMA 3.2 LLM** acting as a **virtu
 - **Topics Covered**: Depression, Anxiety, OCD, Mania, Suicidal ideation, Psychosis  
 - **Goal**: Provide realistic training data for psychotherapy-like interactions
 
----
-
+Link to the refernce dataset : https://github.com/nazmulkazi/dataset_automated_medical_transcription/blob/main/README.md
 ## 🏗️ Model & Training
 
 - **Base Model**: Meta LLaMA 3.2
